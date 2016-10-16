@@ -1,0 +1,1 @@
+This is the keeper app. It is for storing receipts and coupons.
